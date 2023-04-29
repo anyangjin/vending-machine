@@ -1,2 +1,4 @@
 # vending-machine
 <p> colacola vending-machine page</p>
+- js 기능 구현 시작하기 금액,버튼 기능 구현부터
+
